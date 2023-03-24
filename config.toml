@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "zh-tw"
+title = "Just style"
+theme = "elephants"
+
+[params]
+    sitename = "prose and existence"

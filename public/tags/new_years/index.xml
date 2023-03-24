@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>new_years on Just style</title>
+    <link>http://example.org/tags/new_years/</link>
+    <description>Recent content in new_years on Just style</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 01 Jan 2018 18:30:21 -0500</lastBuildDate><atom:link href="http://example.org/tags/new_years/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Happy New Year!</title>
+      <link>http://example.org/posts/happy-new-year/</link>
+      <pubDate>Mon, 01 Jan 2018 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/happy-new-year/</guid>
+      <description>My New Years Resolutions</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Just style</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Just style</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 23 Mar 2023 19:30:21 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I come from a good fam</title>
+      <link>http://example.org/posts/good-time-good-vibes/</link>
+      <pubDate>Thu, 23 Mar 2023 19:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/good-time-good-vibes/</guid>
+      <description>CP volumn
+CP值最高
+the gross of pastels dim[1]
+不只是可口可樂而已，
+spin to the carousels
+目眩神怡成為在地化工程師[2]
+Sui Dr. is swiss
+目標放眼國際
+_
+仍然是自己。
+[1]台灣人的歷史。 [2]Localization Engineer，indicating 成衣產業 in Taiwan.</description>
+    </item>
+    
+    <item>
+      <title>A Kind of Get</title>
+      <link>http://example.org/posts/a-kind-of-get/</link>
+      <pubDate>Thu, 23 Mar 2023 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/a-kind-of-get/</guid>
+      <description>Slowly, | no logo is like Naomi, story essentials not really reels.
+慢慢地 | 顛覆品牌統治的娜歐蜜，故事手冊再也不那麼炫技。</description>
+    </item>
+    
+    <item>
+      <title>How to shift to cubber?</title>
+      <link>http://example.org/posts/my-example-post/</link>
+      <pubDate>Thu, 23 Mar 2023 12:01:21 +0000</pubDate>
+      
+      <guid>http://example.org/posts/my-example-post/</guid>
+      <description>熊如何在人間？
+熊如何不被豢養？
+熊如何成為自己？
+為什麼這是一個問題
+因為 優雅地發光(gracefully shine gradually) 的自己沒有在 對的位置裡擺上 老闆最重視高科技 老闆最重視成品 老闆最重視半導體 內心奚落自己 內心受夠心靈安慰劑</description>
+    </item>
+    
+    <item>
+      <title>Happy New Year!</title>
+      <link>http://example.org/posts/happy-new-year/</link>
+      <pubDate>Mon, 01 Jan 2018 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/happy-new-year/</guid>
+      <description>My New Years Resolutions</description>
+    </item>
+    
+    <item>
+      <title>Elephants Hugo Theme</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 30 Dec 2017 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Elephants Hugo Theme</description>
+    </item>
+    
+  </channel>
+</rss>
